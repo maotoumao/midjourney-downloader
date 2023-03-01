@@ -1,0 +1,19 @@
+{
+  "name": "midjourney-downloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "node ./scripts/build.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "esbuild": "0.17.10"
+  },
+  "dependencies": {
+    "jszip": "^3.10.1"
+  }
+}
