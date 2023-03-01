@@ -9,7 +9,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "GPL",
   "devDependencies": {
     "esbuild": "0.17.10"
   },
