@@ -1,14 +1,21 @@
-> 注意尊重版权方声明~ 仅供学习参考使用
-# MidJourney图片下载脚本
+[English] [[中文]](./readme-zh.md)
 
-## 使用方式
-1. 进入Discord聊天室，按F12打开控制台
+> Please respect the copyright statement. This script is intended for learning and reference purposes only.
 
-2. 复制dist/index.js内的文件内容，粘贴到控制台并回车
+# MidJourney Images Download Script
 
-3. 脚本会立刻下载一个zip包，之后会每满80张图片下载一次。你也可以输入flushDownload()立刻下载。
+## How to Use
+1. Enter the Discord newcomer room and press F12 to open the console.
+![STEP1](./imgs/step1.png)
 
-4. 然后你就有很多很多漂亮图片了。
+2. Copy the contents of **dist/index.js**, paste it into the console, and press enter.
 
-## 嘿嘿
-如果你觉得好玩，你可以点个Star，也可以去微信公众号【一只猫头猫】留言“猫头猫真棒”，我也会夸夸你~
+3. The script will immediately download a zip file and will download every 80 images thereafter. You can also enter *flushDownload()* to download immediately.
+![STEP3](./imgs/step3.png)
+
+4. You now have many beautiful images at your disposal. Use them as your own risk.
+![STEP4](./imgs/step4.png)
+
+## ⭐Support Me
+![wx](./imgs/wx.png)
+![alipay](./imgs/alipay.png)
