@@ -14,5 +14,7 @@
 4. You now have many beautiful images at your disposal. Use them as your own risk.
 
 ## ⭐Support Me
-![wx](./imgs/wx.png)
-![alipay](./imgs/alipay.png)
+
+| 支付宝 | 微信支付 |
+| ------ | --------- |
+| <img src="./imgs/alipay.png" height="248px" width="164px" title="支付宝" style="display:inherit;"/> | <img src="./imgs/wx.png" height="248px" width="164px" title="微信支付" style="display:inherit;"/> |
