@@ -22,7 +22,6 @@ function matchMidjourneyLis(li: Element) {
     const prompts = Array.from(
       li.querySelector("div[id^=message-content-]>strong")?.childNodes ?? []
     )
-      .filter((node) => node.nodeType === Node.TEXT_NODE)
       .map((node) => node.textContent)
       .join(" ");
     const url = li.querySelector<HTMLLinkElement>(
